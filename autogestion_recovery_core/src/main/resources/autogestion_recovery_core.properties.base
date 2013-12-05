@@ -1,5 +1,5 @@
 autogestion_recovery.login.url=http://autogestion.ucu.edu.uy:8080/autoest/servlet/edu.magix.autoest.hmuaeppal
-autogestion_recovery.login.user=gnasi
-autogestion_recovery.login.password=4119674
+autogestion_recovery.login.user=
+autogestion_recovery.login.password=
 
 autogestion_recovery.fees.url=http://autogestion.ucu.edu.uy:8080/autoest/servlet/edu.magix.autoest.hmuaeinicio?Deuda,Principal
